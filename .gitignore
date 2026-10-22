@@ -1,0 +1,19 @@
+
+# Python virtual environment
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Test and tooling caches
+.pytest_cache/
+
+# Local SQLite database
+phishguard.db
+check_session.py
