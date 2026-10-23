@@ -1,4 +1,4 @@
-from routes.scans import scans_bp
+
 from app import app
 
 def test_scan_valid_url():
